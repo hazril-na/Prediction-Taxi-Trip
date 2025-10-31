@@ -1,8 +1,6 @@
-# 🎈 Blank app template
+Aplikasi ini memprediksi jumlah perjalanan taksi (trips) di New York City berdasarkan lokasi penjemputan (PULocationID), jam pengambilan (pickup_hour), dan hari dalam minggu (pickup_dayofweek).
+Model dibangun menggunakan pendekatan machine learning dengan eksplorasi pola musiman (seasonality), korelasi antar fitur, serta optimisasi model terbaik menggunakan Hyperparameter Tuning.
 
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
 ### How to run it on your own machine
 
